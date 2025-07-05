@@ -1,1 +1,1 @@
-What I have learned in this course is how to use Git and GitHub from the command line. I now understand how to track my work, commit changes, and push them to the cloud.
+What I have learned from this course is how to use Git and GitHub from the command line. I now understand how to track my work, commit changes, and push them to the cloud.
